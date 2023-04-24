@@ -1,0 +1,8 @@
+version: 1
+
+urls:
+  token: "http://localhost:8080/auth/realms/relevium/protocol/openid-connect/token"
+
+client:
+  id: "ews_client"
+  secret: "x8TLyzYOuq1XNfiO0RejvC6I5pJJYWHk"
